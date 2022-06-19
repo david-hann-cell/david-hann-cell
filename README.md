@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @david-hann-cell
 - 👀 I’m interested in mathematics, physics, and mathematical physics.
-- 🌱 I’m currently learning social choice theory
+- 🌱 I’m currently learning social choice theory.
 - 💞️ I’m looking to collaborate on computational physics.
 - 📫 How to reach me message me @github
 
